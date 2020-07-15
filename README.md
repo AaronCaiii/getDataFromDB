@@ -14,6 +14,8 @@ Este pequeño script le permite obtener los datos en la base de datos y exportar
 
 Ce petit script vous permet d'obtenir les données dans la base de données et de les exporter en Excel. Le langage utilisé est Python, et il vous suffit de modifier les paramètres. Si vous pensez que l'expérience est bonne, n'oubliez pas de donner une étoile.
 
+-------------------------------------------
+
 这个小脚本是由Python编写的, 你在使用本脚本之前需要先安装pymysql以及pyxlwt.
 并且确保你的Python版本在3.0以上.
 其中的代码我已经注释好了.可以自行修改.
